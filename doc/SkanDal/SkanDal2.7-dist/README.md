@@ -1,0 +1,1 @@
+See http://wiki.labomedia.org/index.php/Cat%C3%A9gorie:Skandal

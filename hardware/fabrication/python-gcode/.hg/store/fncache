@@ -1,0 +1,15 @@
+data/examples/circle.cnc.i
+data/examples/hold-down.cnc.i
+data/test_cnc.py.i
+data/examples/hold_down.py.i
+data/cnc.py.i
+data/examples/bitbeam-1-test.cnc.i
+data/examples/circle-2.cnc.i
+data/examples/bitbeam.py.i
+data/examples/circle.py.i
+data/README.i
+data/.hgignore.i
+data/examples/bitbeam.cnc.i
+data/examples/bitbeam-2-test.cnc.i
+data/examples/flatten.cnc.i
+data/examples/bitbeam-3-test.cnc.i

@@ -1,0 +1,12 @@
+eeschema (2013-may-18)-stable  >> Creation date: sam. 15 mars 2014 02:59:17 CET
+#Cmp ( order = Reference )
+| R1         R           
+| SHIELD1    ARDUINO_SHIELD
+#End Cmp
+
+#Cmp ( ordre = Valeur )
+| R            R1        
+| ARDUINO_SHIELD SHIELD1   
+#End Cmp
+
+#End List

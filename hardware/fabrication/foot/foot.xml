@@ -1,0 +1,18 @@
+<openscam>
+  <!-- NC Files -->
+  <nc-files>
+    foot.ngc
+  </nc-files>
+
+  <!-- Renderer -->
+  <resolution v='0,468619'/>
+  <resolution-mode v='MEDIUM'/>
+
+  <!-- Workpiece -->
+  <workpiece-max v='(24.75,24.75,0)'/>
+  <workpiece-min v='(-24.75,-24.75,-10.5)'/>
+
+  <tool_table>
+    <tool length='35,' number='1' radius='1,5' shape='CYLINDRICAL' units='MM'/>
+  </tool_table>
+</openscam>

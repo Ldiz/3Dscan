@@ -1,0 +1,46 @@
+Listing available controls for device video0:
+  Brightness
+    Values  : [ 30 .. 255, step size: 1 ],
+    Default : 133
+  Contrast
+    Values  : [ 0 .. 10, step size: 1 ],
+    Default : 5
+  Saturation
+    Values  : [ 0 .. 200, step size: 1 ],
+    Default : 83
+  White Balance Temperature, Auto
+    Values  : [ 0 .. 1, step size: 1 ],
+    Default : 1
+  Power Line Frequency
+    Values  : { 'Disabled'[0], '50 Hz'[1], '60 Hz'[2] },
+    Default : 2
+  White Balance Temperature
+    Values  : [ 2800 .. 10000, step size: 1 ],
+    Default : 4500
+  Sharpness
+    Values  : [ 0 .. 50, step size: 1 ],
+    Default : 25
+  Backlight Compensation
+    Values  : [ 0 .. 10, step size: 1 ],
+    Default : 0
+  Exposure, Auto
+    Values  : { 'Manual Mode'[1], 'Aperture Priority Mode'[3] },
+    Default : 1
+  Exposure (Absolute)
+    Values  : [ 5 .. 20000, step size: 1 ],
+    Default : 156
+  Pan (Absolute)
+    Values  : [ -201600 .. 201600, step size: 3600 ],
+    Default : 0
+  Tilt (Absolute)
+    Values  : [ -201600 .. 201600, step size: 3600 ],
+    Default : 0
+  Focus (absolute)
+    Values  : [ 0 .. 40, step size: 1 ],
+    Default : 0
+  Focus, Auto
+    Values  : [ 0 .. 1, step size: 1 ],
+    Default : 0
+  Zoom, Absolute
+    Values  : [ 0 .. 10, step size: 1 ],
+    Default : 0

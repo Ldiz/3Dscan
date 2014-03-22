@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = sam. 15 mars 2014 02:59:41 CET
+
+BeginCmp
+TimeStamp = /5323B3D3;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53239B99;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO SHIELD;
+EndCmp
+
+EndListe
